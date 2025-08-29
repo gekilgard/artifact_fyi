@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "echo 'Files are already built - skipping build step'",
+    "start": "python3 -m http.server 3000",
     "preview": "echo 'Static files ready for serving'"
   },
   "devDependencies": {}
