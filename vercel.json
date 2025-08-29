@@ -1,6 +1,6 @@
 {
-  "buildCommand": null,
-  "installCommand": null,
+  "buildCommand": "npm run build",
+  "installCommand": "echo 'No dependencies to install'",
   "outputDirectory": ".",
   "cleanUrls": true,
   "trailingSlash": false,

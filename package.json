@@ -1,0 +1,10 @@
+{
+  "name": "tracing-art",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Files are already built - skipping build step'",
+    "preview": "echo 'Static files ready for serving'"
+  },
+  "devDependencies": {}
+}
